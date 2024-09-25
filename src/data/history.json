@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Assistant Lecturer of Information System Management",
+    "organisation": "Universitas Pertamina",
+    "startDate": "Sep, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Developed and validated answer keys.",
+      "Reviewed assignments and quizzes for 64 students to ensure precision.",
+      "Generated detailed assessment reports utilizing Microsoft Excel."
+    ],
+    "imageSrc": "history/universitas_pertamina.png"
+  },
+  {
+    "role": "Assistant Lecturer of Optimization Mathematics",
+    "organisation": "Universitas Pertamina",
+    "startDate": "May, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Developed and validated answer keys.",
+      "Reviewed assignments and quizzes for 43 students to ensure precision.",
+      "Generated detailed assessment reports utilizing Microsoft Excel."
+    ],
+    "imageSrc": "history/universitas_pertamina.png" 
+  },
+  {
+    "role": "Computer Science Accreditation Assistant",
+    "organisation": "Universitas Pertamina",
+    "startDate": "Oct, 2022",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Assisted in preparing self-assessment reports and accreditation documents.",
+      "Prepared and collected over 100 required documents and data.",
+      "Worked with staff to gather information and enter data using Microsoft Office."
+    ],
+    "imageSrc": "history/universitas_pertamina.png" 
+  }
+]

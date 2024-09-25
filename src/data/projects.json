@@ -1,0 +1,42 @@
+[
+  {
+    "title": "eCommerce Insights Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive dashboard built using Google Looker Studio to analyze over 51,300 retail transactions, displaying key metrics and visualizations.",
+    "skills": ["Google Looker", "Data Analysis", "Visualization"],
+    "demo": "https://lookerstudio.google.com/s/gdcZ0A5xs10",
+    "source": "https://lookerstudio.google.com/s/gdcZ0A5xs10"
+  },
+  {
+    "title": "Retail Transaction Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "Dashboard displaying retail transactions processed from over 5,800 records, visualizing transaction amounts and product categories.",
+    "skills": ["Google Looker", "Data Visualization", "Data Processing"],
+    "demo": "https://lookerstudio.google.com/s/isMfTScCsHM",
+    "source": "https://lookerstudio.google.com/s/isMfTScCsHM"
+  },
+  {
+    "title": "Sentiment Analysis on IKN",
+    "imageSrc": "projects/project.png",
+    "description": "Analyzed Twitter data from the 2024 vice presidential debate using Naive Bayes methods to visualize sentiment and topic trends.",
+    "skills": ["Python", "Data Analysis", "Machine Learning"],
+    "demo": "https://github.com/Aryasharii/Pengantar-sains-data",
+    "source": "https://github.com/Aryasharii/Pengantar-sains-data"
+  },
+  {
+    "title": "Mathematical Modelling of Car Sales Competition",
+    "imageSrc": "projects/project.png",
+    "description": "Created a competition model visualization of car sales in Indonesia using existing datasets for the Energy Field Modelling course.",
+    "skills": ["Data Modeling", "Python", "Data Visualization"],
+    "demo": "https://github.com/Aryasharii/metode-numerik",
+    "source": "https://github.com/Aryasharii/metode-numerik"
+  },
+  {
+    "title": "Implementation of Newton Cotes Numerical Method",
+    "imageSrc": "projects/project.png",
+    "description": "Estimated the area of West Java using a mathematical approach and numerical methods, achieving a relative error of 2.97%.",
+    "skills": ["Mathematics", "Python", "Numerical Methods"],
+    "demo": "https://www.example.com/newton-cotes",
+    "source": "https://github.com/yourusername/newton-cotes"
+  }
+]
