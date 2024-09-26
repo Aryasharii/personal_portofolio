@@ -1,8 +1,8 @@
 import React from "react";
 
 import styles from "./Experience.module.css";
-import skills from "../../data/skills.json"; // Ensure this file exists and is properly formatted
-import history from "../../data/history.json"; // Make sure this JSON file matches the structure provided
+import skills from "../../data/skills.json"; 
+import history from "../../data/history.json"; 
 import { getImageUrl } from "../../utils";
 
 export const Experience = () => {

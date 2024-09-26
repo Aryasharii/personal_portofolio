@@ -1,7 +1,15 @@
 [
   {
+    "title": "Holiyay: web to make your vacation easier",
+    "imageSrc": "projects/project_1.png",
+    "description": "Holiyay is a user-friendly web platform designed to simplify your vacation planning. This website uses the google maps API to determine the location.",
+    "skills": ["Web Development", "User Experience Design", "Travel Analytics"],
+    "demo": "https://github.com/Aryasharii/web-programming-Main-Project",
+    "source": "https://github.com/Aryasharii/web-programming-Main-Project"
+  },
+  {
     "title": "eCommerce Insights Dashboard",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project_2.png",
     "description": "A comprehensive dashboard built using Google Looker Studio to analyze over 51,300 retail transactions, displaying key metrics and visualizations.",
     "skills": ["Google Looker", "Data Analysis", "Visualization"],
     "demo": "https://lookerstudio.google.com/s/gdcZ0A5xs10",
@@ -9,7 +17,7 @@
   },
   {
     "title": "Retail Transaction Dashboard",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project_3.png",
     "description": "Dashboard displaying retail transactions processed from over 5,800 records, visualizing transaction amounts and product categories.",
     "skills": ["Google Looker", "Data Visualization", "Data Processing"],
     "demo": "https://lookerstudio.google.com/s/isMfTScCsHM",

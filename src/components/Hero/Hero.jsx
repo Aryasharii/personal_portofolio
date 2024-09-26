@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a 7th semester Computer Science student with a strong focus on data science and business intelligence. I also have experience in web development using React. If you're interested in my projects and skills in data analytics or web development, feel free to reach out!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:aryaashari94@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
